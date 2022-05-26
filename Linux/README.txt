@@ -1,0 +1,1 @@
+All the various linux templates which can be consumed for effective Discovery attributes
